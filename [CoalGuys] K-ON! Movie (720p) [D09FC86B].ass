@@ -11,8 +11,8 @@ Video Aspect Ratio: 0
 Video Zoom: 6
 
 [Aegisub Project Garbage]
-Scroll Position: 57
-Active Line: 70
+Scroll Position: 2064
+Active Line: 2069
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,11 +56,11 @@ Dialogue: 0,0:03:04.25,0:03:07.50,Default,,0,0,0,,Klub populární hudby se nám
 Dialogue: 0,0:03:07.50,0:03:10.61,Default,,0,0,0,,Rozpadne?! Proč zrovna teď?
 Dialogue: 0,0:03:10.61,0:03:13.88,Default,,0,0,0,,Máme rozdílné představy, kudy se vydat.
 Dialogue: 0,0:03:14.41,0:03:17.49,Default,,0,0,0,,Prostě máme každá úplně jiný styl, Azu-mňau.
-Dialogue: 0,0:03:17.49,0:03:19.33,Default,,0,0,0,,Jaký různý styl?! Prosím tě!
+Dialogue: 0,0:03:17.49,0:03:19.33,Default,,0,0,0,,Vy že máte různý styl?! Ale prosím tě!
 Dialogue: 0,0:03:19.33,0:03:23.66,Default,,0,0,0,,Ty mluvíš o stylu? Vždyť na jeden nový akord zapomeneš tři staré!
 Dialogue: 0,0:03:23.66,0:03:26.75,Default,,0,0,0,,Říká ta, co na pódiu padá a ukazuje spodní prádlo!
 Dialogue: 0,0:03:26.75,0:03:29.32,Default,,0,0,0,,To s tím nemá nic společného!
-Dialogue: 0,0:03:29.32,0:03:31.69,Default,,0,0,0,,Neřešily jste náhodou hudební styl?
+Dialogue: 0,0:03:29.32,0:03:31.69,Default,,0,0,0,,Nemluvily jsme náhodou o hudebních stylech?
 Dialogue: 0,0:03:32.20,0:03:34.08,Default,,0,0,0,,Co ty si o tom myslíš, Azuso?
 Dialogue: 0,0:03:34.08,0:03:35.29,Default,,0,0,0,,Já-
 Dialogue: 0,0:03:35.29,0:03:39.77,Default,,0,0,0,,Myslím, že nám nejvíc sedí veselé a živé písničky.
@@ -72,17 +72,17 @@ Dialogue: 0,0:03:47.28,0:03:48.88,Default,,0,0,0,,Když ses k nám přidala, tak
 Dialogue: 0,0:03:48.88,0:03:51.02,Default,,0,0,0,,že hrajeme písničky pro děti!
 Dialogue: 0,0:03:51.02,0:03:53.74,Default,,0,0,0,,V tu chvíli jsem měla pocit, že mi někdo vrazil hřebík do oka!
 Dialogue: 0,0:03:53.74,0:03:54.27,Default,,0,0,0,,Oko?
-Dialogue: 0,0:03:54.27,0:03:58.35,Default,,0,0,0,,To ty pořád, že to nemusíme nijak hrotit!
+Dialogue: 0,0:03:54.27,0:03:58.35,Default,,0,0,0,,To ty jsi přece říkala, že je to jedno, dokud to nebudeme nějak moc hrotit!
 Dialogue: 0,0:03:58.35,0:04:00.05,Default,,0,0,0,,Nezahrajeme si oko bere?
 Dialogue: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,TL Note: Old maid is a Japanese card game
-Dialogue: 0,0:04:00.05,0:04:01.87,Default,,0,0,0,,Neplácej, Azuso!
+Dialogue: 0,0:04:00.05,0:04:01.87,Default,,0,0,0,,Neblázni, Azuso!
 Dialogue: 0,0:04:01.87,0:04:05.35,Default,,0,0,0,,Teď se rozhoduje o budoucnosti klubu!
 Dialogue: 0,0:04:05.35,0:04:05.93,Default,,0,0,0,,Azu-mňau.
 Dialogue: 0,0:04:06.34,0:04:06.68,Default,,0,0,0,,Ano?
 Dialogue: 0,0:04:07.44,0:04:09.50,Default,,0,0,0,,Zahrajeme si později.
 Dialogue: 0,0:04:10.55,0:04:15.03,Default,,0,0,0,,Když ses přidala, neuměla jsi hrát ani na harmoniku, natož na kytaru!
-Dialogue: 0,0:04:15.03,0:04:17.60,Default,,0,0,0,,Na harmoniku umím!
-Dialogue: 0,0:04:17.60,0:04:19.64,Default,,0,0,0,,Fakt jo? Tak něco předveď!
+Dialogue: 0,0:04:15.03,0:04:17.60,Default,,0,0,0,,Umím hrát na harmoniku!
+Dialogue: 0,0:04:17.60,0:04:19.64,Default,,0,0,0,,Vážně? Tak něco zahraj!
 Dialogue: 0,0:04:19.64,0:04:21.32,Default,,0,0,0,,Omlouvám se, to neumím.
 Dialogue: 0,0:04:21.32,0:04:23.13,Default,,0,0,0,,Tohle je vážně směšné!
 Dialogue: 0,0:04:23.76,0:04:24.57,Default,,0,0,0,,Mugi?
@@ -104,13 +104,13 @@ Dialogue: 0,0:05:11.64,0:05:15.39,Default,,0,0,0,,A nemohly byste si to nechat m
 Dialogue: 0,0:05:15.39,0:05:18.33,Default,,0,0,0,,Ale vždyť jsi byla pro.
 Dialogue: 0,0:05:18.33,0:05:19.81,Default,,0,0,0,,To bylo jen jako?
 Dialogue: 0,0:05:20.76,0:05:21.89,Default,,0,0,0,,Jo.
-Dialogue: 0,0:05:21.89,0:05:26.63,Default,,0,0,0,,Vždycky jsem se chtěla zkusit pohádat se kvůli stylu.
-Dialogue: 0,0:05:26.63,0:05:29.09,Default,,0,0,0,,Každá kapela musí nějakou projít.
+Dialogue: 0,0:05:21.89,0:05:26.63,Default,,0,0,0,,Vždycky mě tyhle hádky ohledně rozdílnosti stylů zajímaly.
+Dialogue: 0,0:05:26.63,0:05:29.09,Default,,0,0,0,,Každá kapela si alespoň jednou takovou projde.
 Dialogue: 0,0:05:29.09,0:05:31.85,Default,,0,0,0,,Tušila jsem, že to bude něco takového.
 Dialogue: 0,0:05:31.85,0:05:34.76,Default,,0,0,0,,Když už přišla i Azusa
 Dialogue: 0,0:05:34.76,0:05:35.81,Default,,0,0,0,,Počkejte!
-Dialogue: 0,0:05:38.02,0:05:39.80,Default,,0,0,0,,Dáme čajík?
-Dialogue: 0,0:07:26.85,0:07:29.00,Default,,0,0,0,,Nezhodnotíme právě proběhlou akci? 
+Dialogue: 0,0:05:38.02,0:05:39.80,Default,,0,0,0,,Dáme čaj?
+Dialogue: 0,0:07:26.85,0:07:29.00,Default,,0,0,0,,Nezhodnotíme právě proběhlou akci?
 Dialogue: 0,0:07:29.00,0:07:33.76,Default,,0,0,0,,Doufala jsem, že se Azu-mňau vyděsí trochu víc.
 Dialogue: 0,0:07:33.76,0:07:36.14,Default,,0,0,0,,Takže jste se nesešly kvůli zkoušce.
 Dialogue: 0,0:07:36.51,0:07:39.27,Default,,0,0,0,,Nakrmila jsem Toníka!
